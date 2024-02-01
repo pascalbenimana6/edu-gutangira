@@ -1,1 +1,3 @@
-class
+public class Candidate{
+	private int id;
+}
